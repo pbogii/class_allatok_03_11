@@ -1,4 +1,4 @@
-class allat:
+class Allat:
     def __init__(self, nev_, faj_, eletkor_, elohely_, meret_):
         self.nev = nev_
         self.faj = faj_
